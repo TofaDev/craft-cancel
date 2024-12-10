@@ -52,7 +52,7 @@ This plugin is built using Gradle. To build the plugin locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/TofaDev/craft-cancel
    cd CraftCancel
    ```
 
