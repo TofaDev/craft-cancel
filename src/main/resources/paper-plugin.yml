@@ -1,0 +1,4 @@
+name: CraftCancel
+version: '1.0-SNAPSHOT'
+main: com.tofa.craftCancel.CraftCancel
+api-version: '1.21'
